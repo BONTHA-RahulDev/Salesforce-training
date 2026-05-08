@@ -51,6 +51,8 @@ Lead → Contact → Opportunity → Customer
 
 ---
 
-# Screenshots
+# Screenshots 1:
 
 <img width="1893" height="1035" alt="Screenshot 2026-05-08 144238" src="https://github.com/user-attachments/assets/1d2cda1e-930d-4d43-bf49-a8503b76152b" />
+# Screenshot-2:
+<img width="934" height="319" alt="Screenshot 2026-05-08 144313" src="https://github.com/user-attachments/assets/9d5cc51d-60f4-466a-b3f4-d84e9cc18207" />
