@@ -91,7 +91,7 @@ College Admission App
 
 ---
 
-# Trailhead Screenshots
+# Trailhead Screenshots 1:
 <img width="1905" height="734" alt="Screenshot 2026-05-08 144336" src="https://github.com/user-attachments/assets/796c1d3a-aaf5-4736-a88d-574c2dc45b1f" />
 
 
