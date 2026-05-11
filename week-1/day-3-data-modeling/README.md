@@ -119,3 +119,5 @@ It keeps the database clean and accurate.
 
 # 6. Why is Salesforce called a metadata-driven platform?
 Because most customization is done without coding using metadata.
+# Screenshot:
+<img width="957" height="631" alt="Screenshot 2026-05-11 164341" src="https://github.com/user-attachments/assets/d398fade-e063-4fd0-860a-66d8f209e4f0" />
