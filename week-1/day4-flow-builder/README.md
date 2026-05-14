@@ -64,3 +64,7 @@ Salesforce automatically sends reminders.
 
 ### Why automation matters in enterprise systems
 Automation improves efficiency, reduces manual work, increases productivity, and ensures consistency in business operations.
+
+# Screenshot:
+<img width="913" height="650" alt="Screenshot 2026-05-14 110723" src="https://github.com/user-attachments/assets/e349c0b8-d612-48a8-88aa-1c1066060789" />
+
